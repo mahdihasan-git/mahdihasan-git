@@ -18,6 +18,16 @@
 💡 I enjoy learning how things work and turning ideas into code.
 
 ---
+## 🚀 Goals
+
+- 📚 Improve my programming fundamentals
+- 🧩 Become better at problem solving
+- 💻 Learn DSA and competitive programming
+- 🌐 Explore different programming languages
+- 🛠️ Build useful real-world projects
+- 🚀 Become a skilled software developer
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
