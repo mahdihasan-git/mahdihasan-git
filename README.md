@@ -1,4 +1,4 @@
-![image alt](https://github.com/mahdihasan-git/mahdihasan-git/blob/4e895f9734aa761fbed5954b6dfd60aa4af44816/github_banner_mahdi_bw%20(1).png)
+![image alt](https://github.com/mahdihasan-git/mahdihasan-git/blob/023810dc9c94101b0835ad42fa0f2110c6f31a70/mahdi-hasan-profile-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">CSE Student | Aspiring Software Developer 🚀</h3>
